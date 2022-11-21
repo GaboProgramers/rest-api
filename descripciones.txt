@@ -1,0 +1,3 @@
+express = es un framework de node que nos permite escribir codigo de servidor
+
+morgan = modelo para ver por consola las peticiones que nos estan llegando
